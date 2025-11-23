@@ -1,34 +1,34 @@
-<h1 align="center">👋 Hey there, I'm Sairaj Pawar</h1>
-<h3 align="center">Python Backend Developer | Django • FastAPI • SQL</h3>
+<h1 align="left">Hey there 👋</h1>
+<h3 align="left">I'm Sairaj Pawar, a passionate Python Backend Developer 🚀</h3>
 
 ---
 
-### 🚀 About Me
-- 🎓 Master of Computer Science (2023–2025)
-- 💻 Backend developer focusing on Django & REST APIs
-- 🐍 Strong in Python, SQL, Debugging, Clean Logic
-- 📚 Research Paper Published (IJSREM 2025)
+### 🎯 About Me  
+- 🎓 Master's Student, India  
+- 💼 Python Backend Developer  
+- 🐍 Python | Django | FastAPI | SQL  
+- 🔗 REST APIs | MySQL | SQLite  
+- ⚙️ Git, GitHub, VS Code  
+- 📚 Published Research Paper (HCI, IJSREM 2025)  
+- 🧠 Problem Solving & Debugging  
+- ☁️ Deployment & Linux Basics  
+- 🔥 Always learning and building projects  
 
 ---
 
-### 🛠 Tech Stack
-- **Languages:** Python, HTML, CSS, JS  
-- **Frameworks:** Django, FastAPI  
-- **Databases:** MySQL, SQLite  
-- **Tools:** Git, VS Code, Linux  
+### 🛠️ Tech Stack  
+- Python, Django, FastAPI  
+- HTML, CSS, JavaScript  
+- MySQL, SQLite  
+- Git, GitHub, Linux  
 
 ---
 
-### 📊 Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sairaj-pawar&show_icons=true&theme=tokyonight" height="150px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sairaj-pawar&theme=tokyonight" height="150px"/>
+
+
+
+<!-- Optional: If you want the developer image like in the screenshot -->
+<!-- खाली image नको असेल तर हा section delete कर -->
+<p align="left">
+  <img src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/refs/heads/master/dev.gif" width="270"/>
 </p>
-
----
-
-### 🌐 Connect
-📩 **sairajpawar9960@gmail.com**  
-🔗 **GitHub:** github.com/sairaj-pawar  
-🔗 **LinkedIn:** linkedin.com/in/sairaj-pawar-16a22934a  
-
