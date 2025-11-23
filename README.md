@@ -1,26 +1,26 @@
-<h1 align="left">Hey there 👋</h1>
-<h3 align="left">I'm Sairaj Pawar, a passionate developer & tech explorer 🚀</h3>
+<h2 align="center" style="color:#c792ea">Hey there 👋<br>
+I'm <span style="color:#82AAFF">Sairaj Pawar</span>, a passionate developer & tech explorer 🚀</h2>
 
----
+<table>
+  <tr>
+    <td width="60%">
 
-### 🎓 Education & Role  
-- 🎓 Master's Student, India  
-- 💻 Python Backend Developer  
+<div align="left">
 
----
+🎓 <strong>Masters Student</strong> • 🇮🇳 Pune, India • <strong>Python Backend Developer</strong>  
+💻 Python • Django • FastAPI • MySQL • HTML • CSS • JavaScript  
+🧠 Problem Solving • Debugging • Git & GitHub  
+🎨 Linux • API Development • Backend Logic  
 
-### 🧠 Tech Stack & Skills  
-- 🐍 Python · Django · FastAPI  
-- 🗄️ MySQL · SQLite  
-- 🔗 REST APIs · Backend Development  
-- 🌐 HTML · CSS · JavaScript  
-- 🐧 Linux  
-- 🛠️ Git & GitHub  
 
----
 
----
+</div>
 
-<p align="left">
-    <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="270"/>
-</p>
+</td>
+<td>
+
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="270"/>
+
+</td>
+</tr>
+</table>
