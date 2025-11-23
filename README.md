@@ -1,34 +1,26 @@
 <h1 align="left">Hey there 👋</h1>
-<h3 align="left">I'm Sairaj Pawar, a passionate Python Backend Developer 🚀</h3>
+<h3 align="left">I'm Sairaj Pawar, a passionate developer & tech explorer 🚀</h3>
 
 ---
 
-### 🎯 About Me  
+### 🎓 Education & Role  
 - 🎓 Master's Student, India  
-- 💼 Python Backend Developer  
-- 🐍 Python | Django | FastAPI | SQL  
-- 🔗 REST APIs | MySQL | SQLite  
-- ⚙️ Git, GitHub, VS Code  
-- 📚 Published Research Paper (HCI, IJSREM 2025)  
-- 🧠 Problem Solving & Debugging  
-- ☁️ Deployment & Linux Basics  
-- 🔥 Always learning and building projects  
+- 💻 Python Backend Developer  
 
 ---
 
-### 🛠️ Tech Stack  
-- Python, Django, FastAPI  
-- HTML, CSS, JavaScript  
-- MySQL, SQLite  
-- Git, GitHub, Linux  
+### 🧠 Tech Stack & Skills  
+- 🐍 Python · Django · FastAPI  
+- 🗄️ MySQL · SQLite  
+- 🔗 REST APIs · Backend Development  
+- 🌐 HTML · CSS · JavaScript  
+- 🐧 Linux  
+- 🛠️ Git & GitHub  
 
 ---
 
+---
 
-
-
-<!-- Optional: If you want the developer image like in the screenshot -->
-<!-- खाली image नको असेल तर हा section delete कर -->
 <p align="left">
-  <img src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/refs/heads/master/dev.gif" width="270"/>
+    <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="270"/>
 </p>
